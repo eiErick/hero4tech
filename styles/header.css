@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+header {
+    background-color: #363636;
+    height: 68px;
+    margin-bottom: 20px;
+    box-shadow: 5px 3px 3px rgba(0, 0, 0, 0.3);
+
+}
+
+header>h1 {
+    text-align: center;
+    padding-top: 5px;
+    font-size: 3em;
+}
+
+header>h1>a {
+    text-decoration: none;
+}
