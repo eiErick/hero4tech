@@ -1,0 +1,10 @@
+@charset "UFT-8";
+img {
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 35px;
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+}
