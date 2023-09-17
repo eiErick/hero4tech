@@ -1,0 +1,16 @@
+[
+    {
+        "titulo": "20 Comandos de terminal linux para iniciantes",
+        "link": "https://eierick.github.io/hero4tech/post/02-20-comandos-terminal-linux/comandos-terminal.html",
+        "imagem": "https://eierick.github.io/hero4tech/imagens/terminal-code.jpg",
+        "alt": "icone de terminal linux",
+        "categoria": "linux"
+    },
+    {
+        "titulo": "Como surgiu o atual Mascote do Android",
+        "link": "https://eierick.github.io/hero4tech/post/01-mascote-android/index.html",
+        "imagem": "https://eierick.github.io/hero4tech/imagens/logo-android.png",
+        "alt": "atual logo do Android",
+        "categoria": "android"
+    }
+]
