@@ -1,5 +1,5 @@
 let posts = [];
-const endPointDaAPI = "../posts.json";
+const endPointDaAPI = "https://eierick.github.io/hero4tech/posts.json";
 
 getBuscarPostsDaAPI();
 async function getBuscarPostsDaAPI() {
